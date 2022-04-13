@@ -1,0 +1,29 @@
+.home {
+    &__container {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+        position: relative;
+    }
+}
+
+.header__container {
+    align-items: center;
+    color: white;
+    display: flex;
+    height: 150px;
+    font-size: 52px;
+    justify-content: center;
+    width: 100%;
+}
+
+.footer__container {
+    align-items: center;
+    color: white;
+    display: flex;
+    height: 100px;
+    font-size: 20px;
+    justify-content: center;
+    width: 100%;
+}
